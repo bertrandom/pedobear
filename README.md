@@ -13,11 +13,15 @@ into this:
 
 ## Usage
 
+Quit Google Chrome. (⌘-Q)
+
 Run:
 
 `./pedobear.py`
 
 It should automatically find the resource file, back it up, and patch it with pedobear.
+
+Open Google Chrome and open a new incognito window. You should see pedobear!
 
 If you want to restore the original image from the backup, run:
 

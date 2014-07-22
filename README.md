@@ -10,3 +10,12 @@ Basically, turn this:
 into this:
 
 ![](https://github.com/bertrandom/pedobear/blob/gh-pages/images/incognito_pedobear.png)
+
+## Usage
+
+Run:
+`./pedobear.py`
+
+If you want to restore the original image, run:
+`./pedobear.py --restore`
+

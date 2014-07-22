@@ -7,6 +7,6 @@ Basically, turn this:
 
 ![](https://github.com/bertrandom/pedobear/blob/gh-pages/images/incognito_original.png)
 
-into this!
+into this:
 
 ![](https://github.com/bertrandom/pedobear/blob/gh-pages/images/incognito_pedobear.png)

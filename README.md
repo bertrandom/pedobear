@@ -27,3 +27,4 @@ If you want to restore the original image from the backup, run:
 
 `./pedobear.py --restore`
 
+I've only tested this with Chrome v36.0.1985.125

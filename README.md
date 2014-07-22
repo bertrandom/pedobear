@@ -14,8 +14,10 @@ into this:
 ## Usage
 
 Run:
+
 `./pedobear.py`
 
 If you want to restore the original image, run:
+
 `./pedobear.py --restore`
 

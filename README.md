@@ -27,6 +27,8 @@ If you want to restore the original image from the backup, run:
 
 `./pedobear.py --restore`
 
+## Notes
+
 I've only tested this with Chrome v36.0.1985.125
 
 Pedobear icon courtesy of [Miniartx on deviantart](http://miniartx.deviantart.com/art/Pedobear-180327384).

@@ -29,6 +29,6 @@ If you want to restore the original image from the backup, run:
 
 ## Notes
 
-I've only tested this with Chrome v36.0.1985.125 but it should probably work until Google changes the incognito image again.
+I've only tested this with Chrome v36.0.1985.125 but it should probably work until Google changes the incognito image again. I imagine you'll have to re-patch it everytime Chrome updates, as well.
 
 Pedobear icon courtesy of [Miniartx on deviantart](http://miniartx.deviantart.com/art/Pedobear-180327384).

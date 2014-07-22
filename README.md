@@ -1,7 +1,7 @@
 pedobear
 ========
 
-Patches Google Chrome's resource file to replace the incognito icon with [Pedobear](http://en.wikipedia.org/wiki/Pedobear).
+Patches Google Chrome for Mac OS X's resource file to replace the incognito icon with [Pedobear](http://en.wikipedia.org/wiki/Pedobear).
 
 Basically, turn this:
 
@@ -17,7 +17,9 @@ Run:
 
 `./pedobear.py`
 
-If you want to restore the original image, run:
+It should automatically find the resource file, back it up, and patch it with pedobear.
+
+If you want to restore the original image from the backup, run:
 
 `./pedobear.py --restore`
 

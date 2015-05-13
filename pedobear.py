@@ -202,7 +202,7 @@ def main():
 
     args = parser.parse_args()
 
-    version = check_output(["/Applications/Google Chrome.app/Contents/MacOS/Google Chrome", "--version"]).strip()
+    version = check_output(["/Applications/Google Chrome.app/Contents/MacOS/Google Chrome", "--version"]).replace("Google Chrome", "").strip()
     resource_path = "/Applications/Google Chrome.app/Contents/Versions/" + version + "/Google Chrome Framework.framework/Resources/resources.pak"
     resource_backup_path = "/Applications/Google Chrome.app/Contents/Versions/" + version + "/Google Chrome Framework.framework/Resources/resources.bak"
 
